@@ -45,6 +45,10 @@ The project was created as a hands-on full-stack learning project to practice bu
 - CSS
 - Fetch API
 
+- ## Screenshot
+
+![Product Inventory App](screenshots/product-app.png)
+
 ## Project Structure
 
 ```text
