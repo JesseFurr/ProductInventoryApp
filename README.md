@@ -47,7 +47,7 @@ The project was created as a hands-on full-stack learning project to practice bu
 
 - ## Screenshot
 
-![Product Inventory App](screenshots/product-app.png)
+![Product Inventory App](screenshots/productapp.png)
 
 ## Project Structure
 
